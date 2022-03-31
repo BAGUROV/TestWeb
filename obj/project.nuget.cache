@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXpN8/wq1OS/qheNvkXWYlJ0a59QtzDEMKIJCqSKct9wKUE/7it5BZJB+yGW6fVOucA3e1ousmbqHzT+z1jhiQ==",
+  "dgSpecHash": "owmRJxFhSsXSfuwuSvxZ1xnu/2/th/Mk8D5eEMtaHUHdGPgqnMzayChn9DVM4Z2YZfkUDumypo5bqnXJYJBIpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bla\\Desktop\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bla\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\bla\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",

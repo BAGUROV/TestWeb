@@ -29,7 +29,7 @@ namespace TestProject
                 options.JsonSerializerOptions.Converters.Add(new CustomJsonConverterForType());
                 options.JsonSerializerOptions.Converters.Add(new CustomJsonConverterForcBrush());
                 options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
-            }); ;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,7 +51,9 @@ namespace TestProject
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                        name: "default",
+                        pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

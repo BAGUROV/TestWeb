@@ -14132,353 +14132,353 @@
     },
     "Alise/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/Alise/Alise.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/Alise/Alise.csproj"
+      "path": "../src/Frameworks/Alise/Alise.csproj",
+      "msbuildProject": "../src/Frameworks/Alise/Alise.csproj"
     },
     "Auth/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/Auth/Auth.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/Auth/Auth.csproj"
+      "path": "../src/Frameworks/Auth/Auth.csproj",
+      "msbuildProject": "../src/Frameworks/Auth/Auth.csproj"
     },
     "AvmActivator/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/AvmActivator/AvmActivator.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/AvmActivator/AvmActivator.csproj"
+      "path": "../src/Frameworks/AvmActivator/AvmActivator.csproj",
+      "msbuildProject": "../src/Frameworks/AvmActivator/AvmActivator.csproj"
     },
     "ChaosFramework/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/ChaosFramework/ChaosFramework.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/ChaosFramework/ChaosFramework.csproj"
+      "path": "../src/Frameworks/ChaosFramework/ChaosFramework.csproj",
+      "msbuildProject": "../src/Frameworks/ChaosFramework/ChaosFramework.csproj"
     },
     "ComPortWrapper/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/ComPortWrapper/ComPortWrapper.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/ComPortWrapper/ComPortWrapper.csproj"
+      "path": "../src/Frameworks/ComPortWrapper/ComPortWrapper.csproj",
+      "msbuildProject": "../src/Frameworks/ComPortWrapper/ComPortWrapper.csproj"
     },
     "ConfigurationParser/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/ConfigurationParser/ConfigurationParser.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/ConfigurationParser/ConfigurationParser.csproj"
+      "path": "../src/Frameworks/ConfigurationParser/ConfigurationParser.csproj",
+      "msbuildProject": "../src/Frameworks/ConfigurationParser/ConfigurationParser.csproj"
     },
     "Core.Blocks.Modbus/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Modbus/Core.Blocks.Modbus.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Modbus/Core.Blocks.Modbus.csproj"
+      "path": "../src/Blocks/Core.Blocks.Modbus/Core.Blocks.Modbus.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.Modbus/Core.Blocks.Modbus.csproj"
     },
     "Core.Blocks.Modbusik/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Modbusik/Core.Blocks.Modbusik.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Modbusik/Core.Blocks.Modbusik.csproj"
+      "path": "../src/Blocks/Core.Blocks.Modbusik/Core.Blocks.Modbusik.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.Modbusik/Core.Blocks.Modbusik.csproj"
     },
     "Core.Blocks.Telegram/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Telegram/Core.Blocks.Telegram.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Telegram/Core.Blocks.Telegram.csproj"
+      "path": "../src/Blocks/Core.Blocks.Telegram/Core.Blocks.Telegram.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.Telegram/Core.Blocks.Telegram.csproj"
     },
     "Core.NFunTools/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.NFunTools/Core.NFunTools.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.NFunTools/Core.NFunTools.csproj"
+      "path": "../src/Core/Core.NFunTools/Core.NFunTools.csproj",
+      "msbuildProject": "../src/Core/Core.NFunTools/Core.NFunTools.csproj"
     },
     "IEC.60870.104.Framework/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.60870.104.Framework/IEC.60870.104.Framework.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.60870.104.Framework/IEC.60870.104.Framework.csproj"
+      "path": "../src/Frameworks/IEC.60870.104.Framework/IEC.60870.104.Framework.csproj",
+      "msbuildProject": "../src/Frameworks/IEC.60870.104.Framework/IEC.60870.104.Framework.csproj"
     },
     "IEC.60870.104.Framework.Obsolete/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.60870.104.Framework.Obsolete/IEC.60870.104.Framework.Obsolete.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.60870.104.Framework.Obsolete/IEC.60870.104.Framework.Obsolete.csproj"
+      "path": "../src/Frameworks/IEC.60870.104.Framework.Obsolete/IEC.60870.104.Framework.Obsolete.csproj",
+      "msbuildProject": "../src/Frameworks/IEC.60870.104.Framework.Obsolete/IEC.60870.104.Framework.Obsolete.csproj"
     },
     "IEC.61850.Framework/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.61850.Framework/IEC.61850.Framework.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/IEC.61850.Framework/IEC.61850.Framework.csproj"
+      "path": "../src/Frameworks/IEC.61850.Framework/IEC.61850.Framework.csproj",
+      "msbuildProject": "../src/Frameworks/IEC.61850.Framework/IEC.61850.Framework.csproj"
     },
     "MathFramework/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/MathFramework/MathFramework.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/MathFramework/MathFramework.csproj"
+      "path": "../src/Frameworks/MathFramework/MathFramework.csproj",
+      "msbuildProject": "../src/Frameworks/MathFramework/MathFramework.csproj"
     },
     "Modbusik.Core/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/Modbusik.Core/Modbusik.Core.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/Modbusik.Core/Modbusik.Core.csproj"
+      "path": "../src/Frameworks/Modbusik.Core/Modbusik.Core.csproj",
+      "msbuildProject": "../src/Frameworks/Modbusik.Core/Modbusik.Core.csproj"
     },
     "NModbus/3.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/NModbus/NModbus.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/NModbus/NModbus.csproj"
+      "path": "../src/Frameworks/NModbus/NModbus.csproj",
+      "msbuildProject": "../src/Frameworks/NModbus/NModbus.csproj"
     },
     "OpcDaClient/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/OpcDaClient/OpcDaClient.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/OpcDaClient/OpcDaClient.csproj"
+      "path": "../src/Frameworks/OpcDaClient/OpcDaClient.csproj",
+      "msbuildProject": "../src/Frameworks/OpcDaClient/OpcDaClient.csproj"
     },
     "S2Tools/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/S2Tools/S2Tools.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/S2Tools/S2Tools.csproj"
+      "path": "../src/Frameworks/S2Tools/S2Tools.csproj",
+      "msbuildProject": "../src/Frameworks/S2Tools/S2Tools.csproj"
     },
     "SCL.Tools/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/SCL.Tools/SCL.Tools.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/SCL.Tools/SCL.Tools.csproj"
+      "path": "../src/Frameworks/SCL.Tools/SCL.Tools.csproj",
+      "msbuildProject": "../src/Frameworks/SCL.Tools/SCL.Tools.csproj"
     },
     "SLog/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/SLog/SLog.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/SLog/SLog.csproj"
+      "path": "../src/Frameworks/SLog/SLog.csproj",
+      "msbuildProject": "../src/Frameworks/SLog/SLog.csproj"
     },
     "Sonica.Core/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core/Core.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core/Core.csproj"
+      "path": "../src/Core/Core/Core.csproj",
+      "msbuildProject": "../src/Core/Core/Core.csproj"
     },
     "Sonica.Core.Blocks.AVM/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.AVM/Core.Blocks.AVM.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.AVM/Core.Blocks.AVM.csproj"
+      "path": "../src/Blocks/Core.Blocks.AVM/Core.Blocks.AVM.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.AVM/Core.Blocks.AVM.csproj"
     },
     "Sonica.Core.Blocks.AVTUK/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.AVTUK/Core.Blocks.AVTUK.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.AVTUK/Core.Blocks.AVTUK.csproj"
+      "path": "../src/Blocks/Core.Blocks.AVTUK/Core.Blocks.AVTUK.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.AVTUK/Core.Blocks.AVTUK.csproj"
     },
     "Sonica.Core.Blocks.BaseBlock/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.BaseBlock/Core.Blocks.BaseBlock.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.BaseBlock/Core.Blocks.BaseBlock.csproj"
+      "path": "../src/Blocks/Core.Blocks.BaseBlock/Core.Blocks.BaseBlock.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.BaseBlock/Core.Blocks.BaseBlock.csproj"
     },
     "Sonica.Core.Blocks.BaseProxy/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Blocks.BaseProxy/Core.Blocks.BaseProxy.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Blocks.BaseProxy/Core.Blocks.BaseProxy.csproj"
+      "path": "../src/Core/Core.Blocks.BaseProxy/Core.Blocks.BaseProxy.csproj",
+      "msbuildProject": "../src/Core/Core.Blocks.BaseProxy/Core.Blocks.BaseProxy.csproj"
     },
     "Sonica.Core.Blocks.DataBase/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.DataBase/Core.Blocks.DataBase.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.DataBase/Core.Blocks.DataBase.csproj"
+      "path": "../src/Blocks/Core.Blocks.DataBase/Core.Blocks.DataBase.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.DataBase/Core.Blocks.DataBase.csproj"
     },
     "Sonica.Core.Blocks.DCON/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.DCON/Core.Blocks.DCON.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.DCON/Core.Blocks.DCON.csproj"
+      "path": "../src/Blocks/Core.Blocks.DCON/Core.Blocks.DCON.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.DCON/Core.Blocks.DCON.csproj"
     },
     "Sonica.Core.Blocks.IEC.60870.104/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.60870.104/Core.Blocks.IEC.60870.104.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.60870.104/Core.Blocks.IEC.60870.104.csproj"
+      "path": "../src/Blocks/Core.Blocks.IEC.60870.104/Core.Blocks.IEC.60870.104.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.IEC.60870.104/Core.Blocks.IEC.60870.104.csproj"
     },
     "Sonica.Core.Blocks.IEC.60870.104.Obsolete/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.60870.104.Obsolete/Core.Blocks.IEC.60870.104.Obsolete.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.60870.104.Obsolete/Core.Blocks.IEC.60870.104.Obsolete.csproj"
+      "path": "../src/Blocks/Core.Blocks.IEC.60870.104.Obsolete/Core.Blocks.IEC.60870.104.Obsolete.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.IEC.60870.104.Obsolete/Core.Blocks.IEC.60870.104.Obsolete.csproj"
     },
     "Sonica.Core.Blocks.IEC.61850/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.61850/Core.Blocks.IEC.61850.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.IEC.61850/Core.Blocks.IEC.61850.csproj"
+      "path": "../src/Blocks/Core.Blocks.IEC.61850/Core.Blocks.IEC.61850.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.IEC.61850/Core.Blocks.IEC.61850.csproj"
     },
     "Sonica.Core.Blocks.OpcDaClient/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Opc/Core.Blocks.Opc.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Opc/Core.Blocks.Opc.csproj"
+      "path": "../src/Blocks/Core.Blocks.Opc/Core.Blocks.Opc.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.Opc/Core.Blocks.Opc.csproj"
     },
     "Sonica.Core.Blocks.SMTOModel/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.SMTOModel/Core.Blocks.SMTOModel.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.SMTOModel/Core.Blocks.SMTOModel.csproj"
+      "path": "../src/Blocks/Core.Blocks.SMTOModel/Core.Blocks.SMTOModel.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.SMTOModel/Core.Blocks.SMTOModel.csproj"
     },
     "Sonica.Core.Blocks.SNMP/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.SNMP/Core.Blocks.SNMP.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.SNMP/Core.Blocks.SNMP.csproj"
+      "path": "../src/Blocks/Core.Blocks.SNMP/Core.Blocks.SNMP.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.SNMP/Core.Blocks.SNMP.csproj"
     },
     "Sonica.Core.Blocks.Sumto/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Sumto/Core.Blocks.Sumto.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Blocks/Core.Blocks.Sumto/Core.Blocks.Sumto.csproj"
+      "path": "../src/Blocks/Core.Blocks.Sumto/Core.Blocks.Sumto.csproj",
+      "msbuildProject": "../src/Blocks/Core.Blocks.Sumto/Core.Blocks.Sumto.csproj"
     },
     "Sonica.Core.FileTransferApi/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.FileTransferApi/Core.FileTransferApi.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.FileTransferApi/Core.FileTransferApi.csproj"
+      "path": "../src/Core/Core.FileTransferApi/Core.FileTransferApi.csproj",
+      "msbuildProject": "../src/Core/Core.FileTransferApi/Core.FileTransferApi.csproj"
     },
     "Sonica.Core.Proxy/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy/Core.Proxy.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy/Core.Proxy.csproj"
+      "path": "../src/Core/Core.Proxy/Core.Proxy.csproj",
+      "msbuildProject": "../src/Core/Core.Proxy/Core.Proxy.csproj"
     },
     "Sonica.Core.Proxy.Snapshot/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy.Snapshot/Core.Proxy.Snapshot.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy.Snapshot/Core.Proxy.Snapshot.csproj"
+      "path": "../src/Core/Core.Proxy.Snapshot/Core.Proxy.Snapshot.csproj",
+      "msbuildProject": "../src/Core/Core.Proxy.Snapshot/Core.Proxy.Snapshot.csproj"
     },
     "Sonica.Core.Proxy.Teleport/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy.Teleport/Core.Proxy.Teleport.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Proxy.Teleport/Core.Proxy.Teleport.csproj"
+      "path": "../src/Core/Core.Proxy.Teleport/Core.Proxy.Teleport.csproj",
+      "msbuildProject": "../src/Core/Core.Proxy.Teleport/Core.Proxy.Teleport.csproj"
     },
     "Sonica.Core.Scripts/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Scripts/Core.Scripts.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Scripts/Core.Scripts.csproj"
+      "path": "../src/Core/Core.Scripts/Core.Scripts.csproj",
+      "msbuildProject": "../src/Core/Core.Scripts/Core.Scripts.csproj"
     },
     "Sonica.Core.ServerApi/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.ServerTools/Core.ServerApi.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.ServerTools/Core.ServerApi.csproj"
+      "path": "../src/Core/Core.ServerTools/Core.ServerApi.csproj",
+      "msbuildProject": "../src/Core/Core.ServerTools/Core.ServerApi.csproj"
     },
     "Sonica.Core.Shell/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Core/Core.Shell/Core.Shell.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Core/Core.Shell/Core.Shell.csproj"
+      "path": "../src/Core/Core.Shell/Core.Shell.csproj",
+      "msbuildProject": "../src/Core/Core.Shell/Core.Shell.csproj"
     },
     "Sonica.Shell.AVTUK.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.AVTUK.Models/Shell.AVTUK.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.AVTUK.Models/Shell.AVTUK.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.AVTUK.Models/Shell.AVTUK.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.AVTUK.Models/Shell.AVTUK.Models.csproj"
     },
     "Sonica.Shell.AVTUK.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.AVTUK.Views/Shell.AVTUK.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.AVTUK.Views/Shell.AVTUK.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.AVTUK.Views/Shell.AVTUK.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.AVTUK.Views/Shell.AVTUK.Views.csproj"
     },
     "Sonica.Shell.BaseElements.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.BaseElements.Models/Shell.BaseElements.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.BaseElements.Models/Shell.BaseElements.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.BaseElements.Models/Shell.BaseElements.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.BaseElements.Models/Shell.BaseElements.Models.csproj"
     },
     "Sonica.Shell.BaseElements.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.BaseElements.Views/Shell.BaseElements.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.BaseElements.Views/Shell.BaseElements.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.BaseElements.Views/Shell.BaseElements.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.BaseElements.Views/Shell.BaseElements.Views.csproj"
     },
     "Sonica.Shell.BaseWidgets.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.BaseWidgets.Views/Shell.BaseWidgets.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.BaseWidgets.Views/Shell.BaseWidgets.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.BaseWidgets.Views/Shell.BaseWidgets.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.BaseWidgets.Views/Shell.BaseWidgets.Views.csproj"
     },
     "Sonica.Shell.Chart3D.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.Chart3D.Models/Shell.Chart3D.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.Chart3D.Models/Shell.Chart3D.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.Chart3D.Models/Shell.Chart3D.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.Chart3D.Models/Shell.Chart3D.Models.csproj"
     },
     "Sonica.Shell.Chart3D.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Chart3D.Views/Shell.Chart3D.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Chart3D.Views/Shell.Chart3D.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.Chart3D.Views/Shell.Chart3D.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.Chart3D.Views/Shell.Chart3D.Views.csproj"
     },
     "Sonica.Shell.Charts.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.Charts.Models/Shell.Charts.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.Charts.Models/Shell.Charts.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.Charts.Models/Shell.Charts.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.Charts.Models/Shell.Charts.Models.csproj"
     },
     "Sonica.Shell.Charts.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Charts.Views/Shell.Charts.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Charts.Views/Shell.Charts.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.Charts.Views/Shell.Charts.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.Charts.Views/Shell.Charts.Views.csproj"
     },
     "Sonica.Shell.DataBase.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.DataBase.Models/Shell.DataBase.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.DataBase.Models/Shell.DataBase.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.DataBase.Models/Shell.DataBase.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.DataBase.Models/Shell.DataBase.Models.csproj"
     },
     "Sonica.Shell.DataBase.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.DataBase.Views/Shell.DataBase.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.DataBase.Views/Shell.DataBase.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.DataBase.Views/Shell.DataBase.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.DataBase.Views/Shell.DataBase.Views.csproj"
     },
     "Sonica.Shell.Display/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Shell.Display/Shell.Display.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Shell.Display/Shell.Display.csproj"
+      "path": "../src/Shell/Shell.Display/Shell.Display.csproj",
+      "msbuildProject": "../src/Shell/Shell.Display/Shell.Display.csproj"
     },
     "Sonica.Shell.Display.Editor/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Shell.Display.Editor/Shell.Display.Editor.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Shell.Display.Editor/Shell.Display.Editor.csproj"
+      "path": "../src/Shell/Shell.Display.Editor/Shell.Display.Editor.csproj",
+      "msbuildProject": "../src/Shell/Shell.Display.Editor/Shell.Display.Editor.csproj"
     },
     "Sonica.Shell.Nodes.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Nodes.Views/Shell.Nodes.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.Nodes.Views/Shell.Nodes.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.Nodes.Views/Shell.Nodes.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.Nodes.Views/Shell.Nodes.Views.csproj"
     },
     "Sonica.Shell.PropertyPanelElements.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.PropertyPanelElements.Views/Shell.PropertyPanelElements.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.PropertyPanelElements.Views/Shell.PropertyPanelElements.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.PropertyPanelElements.Views/Shell.PropertyPanelElements.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.PropertyPanelElements.Views/Shell.PropertyPanelElements.Views.csproj"
     },
     "Sonica.Shell.ReportDesigner.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.ReportDesigner.Views/Shell.ReportDesigner.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.ReportDesigner.Views/Shell.ReportDesigner.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.ReportDesigner.Views/Shell.ReportDesigner.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.ReportDesigner.Views/Shell.ReportDesigner.Views.csproj"
     },
     "Sonica.Shell.ReportViewer.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.ReportViewer.Models/Shell.ReportViewer.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.ReportViewer.Models/Shell.ReportViewer.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.ReportViewer.Models/Shell.ReportViewer.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.ReportViewer.Models/Shell.ReportViewer.Models.csproj"
     },
     "Sonica.Shell.ReportViewer.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.ReportViewer.Views/Shell.ReportViewer.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.ReportViewer.Views/Shell.ReportViewer.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.ReportViewer.Views/Shell.ReportViewer.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.ReportViewer.Views/Shell.ReportViewer.Views.csproj"
     },
     "Sonica.Shell.SchemeWidgets.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.SchemeWidgets.Models/Shell.SchemeWidgets.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.SchemeWidgets.Models/Shell.SchemeWidgets.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.SchemeWidgets.Models/Shell.SchemeWidgets.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.SchemeWidgets.Models/Shell.SchemeWidgets.Models.csproj"
     },
     "Sonica.Shell.SchemeWidgets.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.SchemeWidgets.Views/Shell.SchemeWidgets.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.SchemeWidgets.Views/Shell.SchemeWidgets.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.SchemeWidgets.Views/Shell.SchemeWidgets.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.SchemeWidgets.Views/Shell.SchemeWidgets.Views.csproj"
     },
     "Sonica.Shell.SoundPlayer.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.SoundPlayer.Models/Shell.SoundPlayer.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.SoundPlayer.Models/Shell.SoundPlayer.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.SoundPlayer.Models/Shell.SoundPlayer.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.SoundPlayer.Models/Shell.SoundPlayer.Models.csproj"
     },
     "Sonica.Shell.SoundPlayer.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.SoundPlayer.Views/Shell.SoundPlayer.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.SoundPlayer.Views/Shell.SoundPlayer.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.SoundPlayer.Views/Shell.SoundPlayer.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.SoundPlayer.Views/Shell.SoundPlayer.Views.csproj"
     },
     "Sonica.Shell.TrendViewer.Models/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.TrendViewer.Models/Shell.TrendViewer.Models.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Models/Shell.TrendViewer.Models/Shell.TrendViewer.Models.csproj"
+      "path": "../src/Shell/Elements/Models/Shell.TrendViewer.Models/Shell.TrendViewer.Models.csproj",
+      "msbuildProject": "../src/Shell/Elements/Models/Shell.TrendViewer.Models/Shell.TrendViewer.Models.csproj"
     },
     "Sonica.Shell.TrendViewer.Views/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.TrendViewer.Views/Shell.TrendViewer.Views.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Elements/Views/Shell.TrendViewer.Views/Shell.TrendViewer.Views.csproj"
+      "path": "../src/Shell/Elements/Views/Shell.TrendViewer.Views/Shell.TrendViewer.Views.csproj",
+      "msbuildProject": "../src/Shell/Elements/Views/Shell.TrendViewer.Views/Shell.TrendViewer.Views.csproj"
     },
     "Sonica.StandartAppTools/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Shell/Sonica.StandartAppTools/Sonica.StandartAppTools.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Shell/Sonica.StandartAppTools/Sonica.StandartAppTools.csproj"
+      "path": "../src/Shell/Sonica.StandartAppTools/Sonica.StandartAppTools.csproj",
+      "msbuildProject": "../src/Shell/Sonica.StandartAppTools/Sonica.StandartAppTools.csproj"
     },
     "Sonica.Studio/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Applications/Sonica.Studio/Sonica.Studio.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Applications/Sonica.Studio/Sonica.Studio.csproj"
+      "path": "../src/Applications/Sonica.Studio/Sonica.Studio.csproj",
+      "msbuildProject": "../src/Applications/Sonica.Studio/Sonica.Studio.csproj"
     },
     "TCPLibrary/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/TCPLibrary/TCPLibrary.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/TCPLibrary/TCPLibrary.csproj"
+      "path": "../src/Frameworks/TCPLibrary/TCPLibrary.csproj",
+      "msbuildProject": "../src/Frameworks/TCPLibrary/TCPLibrary.csproj"
     },
     "Televizor/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/Televizor/Televizor.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/Televizor/Televizor.csproj"
+      "path": "../src/Frameworks/Televizor/Televizor.csproj",
+      "msbuildProject": "../src/Frameworks/Televizor/Televizor.csproj"
     },
     "TNT.Core/1.0.0": {
       "type": "project",
-      "path": "../Work Sonica/sonica 2/sonica/src/Frameworks/TNT.Core/TNT.Core.csproj",
-      "msbuildProject": "../Work Sonica/sonica 2/sonica/src/Frameworks/TNT.Core/TNT.Core.csproj"
+      "path": "../src/Frameworks/TNT.Core/TNT.Core.csproj",
+      "msbuildProject": "../src/Frameworks/TNT.Core/TNT.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -14495,18 +14495,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bla\\Desktop\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\bla\\Desktop\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bla\\Desktop\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bla\\Desktop\\Work Sonica\\sonica 2\\sonica\\NuGet.Config",
+        "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\NuGet.Config",
         "C:\\Users\\bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
@@ -14524,8 +14524,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bla\\Desktop\\Work Sonica\\sonica 2\\sonica\\src\\Applications\\Sonica.Studio\\Sonica.Studio.csproj": {
-              "projectPath": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonica 2\\sonica\\src\\Applications\\Sonica.Studio\\Sonica.Studio.csproj"
+            "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\src\\Applications\\Sonica.Studio\\Sonica.Studio.csproj": {
+              "projectPath": "C:\\Users\\bla\\Desktop\\Work Sonica\\sonic 3\\sonica\\src\\Applications\\Sonica.Studio\\Sonica.Studio.csproj"
             }
           }
         }

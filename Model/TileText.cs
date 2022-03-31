@@ -32,7 +32,6 @@ namespace TestProject.Model
             
         }
 
-        [JsonIgnore]
         public const int DefaultValueForProperty = 0;
 
         [aAlsoKnownAs("borderRadius")]

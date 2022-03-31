@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Work Sonica\sonica 2\sonica\src\Applications\Sonica.Studio\Sonica.Studio.csproj" />
+    <ProjectReference Include="..\src\Applications\Sonica.Studio\Sonica.Studio.csproj" />
   </ItemGroup>
 
 
