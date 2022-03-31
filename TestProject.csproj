@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Applications\Sonica.Studio\Sonica.Studio.csproj" />
+    
   </ItemGroup>
 
 
