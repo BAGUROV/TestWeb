@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\bla\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files (x86)\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\bla\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft\Xamarin\NuGet\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\bla\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.31</PkgMicrosoft_Xaml_Behaviors_Wpf>
+    <PkgMahApps_Metro Condition=" '$(PkgMahApps_Metro)' == '' ">C:\Users\bla\.nuget\packages\mahapps.metro\2.4.7</PkgMahApps_Metro>
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\bla\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+    <PkgSystem_Data_SQLite_EF6 Condition=" '$(PkgSystem_Data_SQLite_EF6)' == '' ">C:\Users\bla\.nuget\packages\system.data.sqlite.ef6\1.0.114</PkgSystem_Data_SQLite_EF6>
+    <PkgDevExpress_WindowsDesktop_Wpf_Core Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Core)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.core\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Core>
+    <PkgDevExpress_WindowsDesktop_Wpf_TreeMap Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_TreeMap)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.treemap\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_TreeMap>
+    <PkgDevExpress_WindowsDesktop_Wpf_Ribbon Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Ribbon)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.ribbon\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Ribbon>
+    <PkgDevExpress_WindowsDesktop_Wpf_PropertyGrid Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_PropertyGrid)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.propertygrid\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_PropertyGrid>
+    <PkgDevExpress_WindowsDesktop_Wpf_LayoutControl Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_LayoutControl)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.layoutcontrol\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_LayoutControl>
+    <PkgDevExpress_WindowsDesktop_Wpf_Layout_Core Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Layout_Core)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.layout.core\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Layout_Core>
+    <PkgDevExpress_WindowsDesktop_Wpf_Grid_Core Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Grid_Core)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.grid.core\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Grid_Core>
+    <PkgDevExpress_WindowsDesktop_Wpf_DocumentViewer_Core Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_DocumentViewer_Core)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.documentviewer.core\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_DocumentViewer_Core>
+    <PkgDevExpress_WindowsDesktop_Wpf_Docking Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Docking)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.docking\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Docking>
+    <PkgDevExpress_WindowsDesktop_Wpf_Printing Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Printing)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.printing\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Printing>
+    <PkgDevExpress_WindowsDesktop_Wpf_Controls Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Controls)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.controls\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Controls>
+    <PkgDevExpress_WindowsDesktop_Wpf_NavBar Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_NavBar)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.navbar\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_NavBar>
+    <PkgDevExpress_WindowsDesktop_Wpf_Charts Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Charts)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.charts\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Charts>
+    <PkgDevExpress_WindowsDesktop_Wpf_Spreadsheet Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Spreadsheet)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.spreadsheet\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Spreadsheet>
+    <PkgDevExpress_WindowsDesktop_Wpf_SpellChecker Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_SpellChecker)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.spellchecker\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_SpellChecker>
+    <PkgDevExpress_WindowsDesktop_Wpf_Scheduling Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Scheduling)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.scheduling\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Scheduling>
+    <PkgDevExpress_WindowsDesktop_Wpf_RichEdit Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_RichEdit)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.richedit\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_RichEdit>
+    <PkgDevExpress_WindowsDesktop_Wpf_Grid_Printing Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Grid_Printing)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.grid.printing\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Grid_Printing>
+    <PkgDevExpress_WindowsDesktop_Wpf_ExpressionEditor Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_ExpressionEditor)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.expressioneditor\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_ExpressionEditor>
+    <PkgDevExpress_WindowsDesktop_Wpf_Grid Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Grid)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.grid\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Grid>
+    <PkgDevExpress_WindowsDesktop_Wpf_PivotGrid Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_PivotGrid)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.pivotgrid\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_PivotGrid>
+    <PkgDevExpress_WindowsDesktop_Wpf_Diagram Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Diagram)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.diagram\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Diagram>
+    <PkgDevExpress_WindowsDesktop_Wpf_Reporting Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Reporting)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.reporting\20.2.8-ctp</PkgDevExpress_WindowsDesktop_Wpf_Reporting>
+    <PkgDevExpress_WindowsDesktop_Wpf_PdfViewer Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_PdfViewer)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.pdfviewer\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_PdfViewer>
+    <PkgDevExpress_WindowsDesktop_Wpf_Map Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Map)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.map\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Map>
+    <PkgDevExpress_WindowsDesktop_Wpf_Carousel Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Carousel)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.carousel\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Carousel>
+    <PkgDevExpress_WindowsDesktop_Wpf_Accordion Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Accordion)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.accordion\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Accordion>
+    <PkgDevExpress_WindowsDesktop_Wpf_Scheduler Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Scheduler)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.scheduler\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Scheduler>
+    <PkgDevExpress_WindowsDesktop_Wpf_PrismAdapters Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_PrismAdapters)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.prismadapters\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_PrismAdapters>
+    <PkgDevExpress_WindowsDesktop_Wpf_Navigation Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Navigation)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.navigation\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Navigation>
+    <PkgDevExpress_WindowsDesktop_Wpf_Layout Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Layout)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.layout\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Layout>
+    <PkgDevExpress_WindowsDesktop_Wpf_Gauges Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Gauges)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.gauges\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Gauges>
+    <PkgDevExpress_WindowsDesktop_Wpf_Gantt Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Gantt)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.gantt\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Gantt>
+    <PkgDevExpress_WindowsDesktop_Wpf_Dialogs Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf_Dialogs)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf.dialogs\20.2.8</PkgDevExpress_WindowsDesktop_Wpf_Dialogs>
+    <PkgDevExpress_WindowsDesktop_Wpf Condition=" '$(PkgDevExpress_WindowsDesktop_Wpf)' == '' ">C:\Users\bla\.nuget\packages\devexpress.windowsdesktop.wpf\20.2.8</PkgDevExpress_WindowsDesktop_Wpf>
+  </PropertyGroup>
+</Project>
