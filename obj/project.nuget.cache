@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAj+YYzTzq+xbxzGFfgSaE2So++kLjSyXVSzBFfI3YxIRwFoSlIC8g+h/E1o6gs/lneYZ8TzNzL4VuXO0Qm2+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bla\\AppData\\Local\\Sonica\\ALL\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bla\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.23\\microsoft.aspnetcore.jsonpatch.3.1.23.nupkg.sha512",
+    "C:\\Users\\bla\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.23\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.23.nupkg.sha512",
+    "C:\\Users\\bla\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bla\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\bla\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\bla\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

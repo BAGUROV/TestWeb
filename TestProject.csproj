@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.23" />
+    <PackageReference Include="System.Text.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ChaosFramework">
+      <HintPath>..\..\Studio\ChaosFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Sonica.Core.Shell">
+      <HintPath>..\..\Studio\Sonica.Core.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Sonica.Shell.BaseElements.Models">
+      <HintPath>..\..\Studio\Sonica.Shell.BaseElements.Models.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
