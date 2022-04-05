@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Shell.BaseElements.Models.Widgets.Tiles;
+using System;
 using System.Collections.Generic;
 using TestProject.Model;
 using TestProject.Services;
@@ -37,20 +38,19 @@ namespace TestProject.Controllers
             if (Text == null)
                 return new JsonResult(null);
 
-            sWidgetModel<ITileView> test = null;
-
-            //JsonSerializerOptions jsonSerializerOptions = new JsonSerializerOptions();
-            //CustomJsonConverterForType customJSON = new CustomJsonConverterForType();
-            //CustomJsonConverterForcBrush customJSON2 = new CustomJsonConverterForcBrush();
-            //jsonSerializerOptions.Converters.Add(customJSON);
-            //jsonSerializerOptions.Converters.Add(customJSON2);
-            //jsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
-
-            test = _dictionaryWidgetModel[Text];
-
-
-            //var t=JsonConvert.SerializeObject(test, new JsonSerializerSettings() { TypeNameHandling = TypeNameHandling.Auto, ReferenceLoopHandling = ReferenceLoopHandling.Ignore   });
-            return new JsonResult(test);
+            JsonResult jsonResult = null;
+            try
+            {
+                _logger.LogInformation("Trying to get a widget(" + Text + ") in the format JSON");
+                sWidgetModel<ITileView> test = _dictionaryWidgetModel[Text];
+                jsonResult = new JsonResult(test);
+            }
+            catch (Exception error)
+            {
+                _logger.LogError(error, "Failed attempt to get widget(" + Text + ") in format JSON");
+            }
+            _logger.LogInformation("Successful receipt of the widget(" + Text + ") in the format JSON");
+            return jsonResult;
         }
     }
 }

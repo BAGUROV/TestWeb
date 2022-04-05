@@ -50,6 +50,18 @@
               "target": "Package",
               "version": "[3.1.23, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
             "System.Text.Json": {
               "target": "Package",
               "version": "[5.0.0, )"

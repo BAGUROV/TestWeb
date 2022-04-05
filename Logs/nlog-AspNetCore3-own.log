@@ -1,0 +1,62 @@
+2022-04-05 15:18:46.7030|0|DEBUG|TestProject.Program|Запуск приложения |url: |action: |
+2022-04-05 15:18:47.5118|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |
+2022-04-05 15:18:47.5180|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |
+2022-04-05 15:18:47.5180|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2022-04-05 15:18:47.5180|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2022-04-05 15:18:47.5180|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject |url: |action: |
+2022-04-05 15:18:48.5224|0|INFO|TestProject.Startup|Время ответа(мс)[109] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:18:48.5528|0|INFO|TestProject.Startup|Время ответа(мс)[7] |url: https://localhost/favicon.ico|action: |
+2022-04-05 15:18:50.8544|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:18:50.9012|0|INFO|TestProject.Startup|Время ответа(мс)[49] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:18:54.7009|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(AnyTileModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:18:54.7157|0|INFO|TestProject.Startup|Время ответа(мс)[17] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:24.0689|0|DEBUG|TestProject.Program|Запуск приложения |url: |action: |
+2022-04-05 15:20:24.8412|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |
+2022-04-05 15:20:24.8502|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |
+2022-04-05 15:20:24.8502|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2022-04-05 15:20:24.8502|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2022-04-05 15:20:24.8502|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject |url: |action: |
+2022-04-05 15:20:25.5613|0|INFO|TestProject.Startup|Время ответа(мс)[107] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:25.5922|0|INFO|TestProject.Startup|Время ответа(мс)[7] |url: https://localhost/favicon.ico|action: |
+2022-04-05 15:20:31.1827|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:31.1827|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:31.2341|0|INFO|TestProject.Startup|Время ответа(мс)[54] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:33.1713|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(A\) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:33.2190|0|ERROR|TestProject.Controllers.HomeController|Failed attempt to get widget(A\) in format JSON System.Collections.Generic.KeyNotFoundException: The given key 'A\' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at TestProject.Controllers.HomeController.Get(String Text) in C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\Controllers\HomeController.cs:line 45|url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:33.2560|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(A\) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:33.2560|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.JsonResult'.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:33.2842|0|INFO|TestProject.Startup|Время ответа(мс)[115] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:38.4748|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(AnyTileModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:38.4748|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(AnyTileModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:20:38.4860|0|INFO|TestProject.Startup|Время ответа(мс)[12] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:21:53.9520|0|DEBUG|TestProject.Program|Запуск приложения |url: |action: |
+2022-04-05 15:21:54.7317|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |
+2022-04-05 15:21:54.7379|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |
+2022-04-05 15:21:54.7379|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2022-04-05 15:21:54.7379|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2022-04-05 15:21:54.7379|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject |url: |action: |
+2022-04-05 15:21:55.4399|0|INFO|TestProject.Startup|Response time(ms)[111] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:21:55.4767|0|INFO|TestProject.Startup|Response time(ms)[6] |url: https://localhost/favicon.ico|action: |
+2022-04-05 15:21:58.3162|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:21:58.3162|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:21:58.3652|0|INFO|TestProject.Startup|Response time(ms)[52] |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:22:00.3233|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(AnyTileModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:22:00.3233|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(AnyTileModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-05 15:22:00.3397|0|INFO|TestProject.Startup|Response time(ms)[18] |url: https://localhost/api/Home|action: Get|

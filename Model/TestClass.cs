@@ -2,10 +2,6 @@
 using c.Enums;
 using Core.Shell.ElementStates;
 using Shell.BaseElements.Models.Widgets.Tiles;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using static Shell.BaseElements.Models.Widgets.Tiles.TileFlagModel;
 
 namespace TestProject.Model

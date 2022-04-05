@@ -382,7 +382,6 @@ C:\Users\bla\Desktop\Work Sonica\sonic 3\sonica\TestProject\obj\Debug\netcoreapp
 C:\Users\bla\Desktop\Work Sonica\sonic 3\sonica\TestProject\obj\Debug\netcoreapp3.1\TestProject.RazorTargetAssemblyInfo.cs
 C:\Users\bla\Desktop\Work Sonica\sonic 3\sonica\TestProject\obj\Debug\netcoreapp3.1\TestProject.Views.pdb
 C:\Users\bla\Desktop\Work Sonica\sonic 3\sonica\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CopyComplete
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
@@ -411,42 +410,6 @@ C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\ChaosFramework.dll
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Shell.dll
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Shell.BaseElements.Models.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\SLog.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Polly.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System.Management.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Proxy.Snapshot.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Proxy.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Proxy.Teleport.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\TNT.Core.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Auth.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\MathFramework.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Scripts.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Scripting.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\IronPython.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System.CodeDom.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\ComPortWrapper.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Blocks.BaseProxy.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\protobuf-net.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.Blocks.DataBase.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Dynamic.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\RJCP.SerialPortStream.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NHibernate.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Dapper.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Microsoft.Scripting.Metadata.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\staticwebassets\TestProject.StaticWebAssets.Manifest.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.TagHelpers.input.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.TagHelpers.output.cache
@@ -457,3 +420,12 @@ C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestPr
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.Views.pdb
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CopyComplete
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\SLog.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\ComPortWrapper.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\RJCP.SerialPortStream.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
