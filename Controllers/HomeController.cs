@@ -52,5 +52,12 @@ namespace TestProject.Controllers
             _logger.LogInformation("Successful receipt of the widget(" + Text + ") in the format JSON");
             return jsonResult;
         }
+
+        [HttpPost]
+        public bool Post([FromForm]sWidgetModel<ITileView> redesignedWidget)
+        {
+
+            return true;
+        }
     }
 }

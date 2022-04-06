@@ -60,3 +60,405 @@
 2022-04-05 15:22:00.3233|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(AnyTileModel) in the format JSON 
 2022-04-05 15:22:00.3233|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(AnyTileModel) in the format JSON 
 2022-04-05 15:22:00.3397|0|INFO|TestProject.Startup|Response time(ms)[18] 
+2022-04-05 19:57:39.7948|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-05 19:57:40.5759|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-05 19:57:40.5818|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-05 19:57:40.5818|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-05 19:57:40.5818|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-05 19:57:40.5818|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-05 19:57:41.3204|0|INFO|TestProject.Startup|Response time(ms)[106] 
+2022-04-05 19:57:41.3523|0|INFO|TestProject.Startup|Response time(ms)[7] 
+2022-04-06 10:34:04.6189|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 10:34:06.4959|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 10:34:06.5053|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 10:34:06.5053|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 10:34:06.5053|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 10:34:06.5053|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 10:34:09.6381|0|INFO|TestProject.Startup|Response time(ms)[2406] 
+2022-04-06 10:34:09.6852|0|INFO|TestProject.Startup|Response time(ms)[19] 
+2022-04-06 10:34:15.8034|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 10:34:15.8034|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 10:34:15.8589|0|INFO|TestProject.Startup|Response time(ms)[1523] 
+2022-04-06 10:34:36.0233|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(AnyTileModel) in the format JSON 
+2022-04-06 10:34:36.0233|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(AnyTileModel) in the format JSON 
+2022-04-06 10:34:36.0375|0|INFO|TestProject.Startup|Response time(ms)[16447] 
+2022-04-06 10:34:54.6867|0|INFO|TestProject.Startup|Response time(ms)[6122] 
+2022-04-06 10:35:31.4012|0|INFO|TestProject.Startup|Response time(ms)[3775] 
+2022-04-06 10:35:53.6204|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 10:35:54.4145|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 10:35:54.4145|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 10:35:54.4218|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 10:35:54.4218|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 10:35:54.4218|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 10:35:56.8311|0|INFO|TestProject.Startup|Response time(ms)[1744] 
+2022-04-06 10:35:56.8598|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 10:36:08.8807|0|INFO|TestProject.Startup|Response time(ms)[7101] 
+2022-04-06 13:53:32.5770|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 13:53:33.3836|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 13:53:33.3923|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 13:53:33.3923|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 13:53:33.3923|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 13:53:33.3923|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 13:53:35.8500|0|INFO|TestProject.Startup|Response time(ms)[1792] 
+2022-04-06 13:53:35.8833|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 13:57:34.7165|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 13:57:34.7178|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 13:57:34.7695|0|INFO|TestProject.Startup|Response time(ms)[57] 
+2022-04-06 13:57:37.5026|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 13:58:10.4300|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 13:58:11.1814|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 13:58:11.1873|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 13:58:11.1873|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 13:58:11.1873|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 13:58:11.1873|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 13:58:11.9345|0|INFO|TestProject.Startup|Response time(ms)[83] 
+2022-04-06 13:58:11.9675|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 13:58:20.1680|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 13:58:20.1680|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 13:58:20.2229|0|INFO|TestProject.Startup|Response time(ms)[58] 
+2022-04-06 13:59:41.0503|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 13:59:41.8867|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 13:59:41.8932|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 13:59:41.8932|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 13:59:41.8932|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 13:59:41.8932|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 13:59:42.6223|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 13:59:42.6251|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 13:59:42.7119|0|INFO|TestProject.Startup|Response time(ms)[3] 
+2022-04-06 13:59:42.7310|0|INFO|TestProject.Startup|Response time(ms)[207] 
+2022-04-06 14:01:39.7915|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:01:40.7267|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:01:40.7340|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:01:40.7340|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:01:40.7340|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:01:40.7340|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:01:41.8082|0|INFO|TestProject.Startup|Response time(ms)[87] 
+2022-04-06 14:01:51.1747|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:01:51.9880|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:01:51.9880|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:01:51.9880|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:01:51.9880|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:01:51.9880|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:01:52.6451|0|INFO|TestProject.Startup|Response time(ms)[90] 
+2022-04-06 14:01:52.6778|0|INFO|TestProject.Startup|Response time(ms)[7] 
+2022-04-06 14:01:52.9575|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:01:52.9575|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:01:53.0120|0|INFO|TestProject.Startup|Response time(ms)[59] 
+2022-04-06 14:02:00.0697|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:00.0697|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:00.0697|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 14:02:06.3466|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:06.3466|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:06.3466|0|INFO|TestProject.Startup|Response time(ms)[4] 
+2022-04-06 14:02:12.2983|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:12.2983|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:02:12.2983|0|INFO|TestProject.Startup|Response time(ms)[5] 
+2022-04-06 14:04:13.2922|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:04:14.1592|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:04:14.1592|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:04:14.1592|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:04:14.1592|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:04:14.1592|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:04:14.8821|0|INFO|TestProject.Startup|Response time(ms)[85] 
+2022-04-06 14:05:01.9163|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:05:02.7403|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:05:02.7525|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:05:02.7525|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:05:02.7525|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:05:02.7525|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:05:03.4702|0|INFO|TestProject.Startup|Response time(ms)[88] 
+2022-04-06 14:05:10.3290|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:05:10.3290|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:05:10.3874|0|INFO|TestProject.Startup|Response time(ms)[62] 
+2022-04-06 14:05:16.1475|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:05:16.1475|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:05:16.1475|0|INFO|TestProject.Startup|Response time(ms)[4] 
+2022-04-06 14:06:03.4911|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:06:04.3334|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:06:04.3334|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:06:04.3334|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:06:04.3334|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:06:04.3430|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:06:05.0107|0|INFO|TestProject.Startup|Response time(ms)[81] 
+2022-04-06 14:06:05.0398|0|INFO|TestProject.Startup|Response time(ms)[5] 
+2022-04-06 14:06:17.6696|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:06:17.6707|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:06:17.7311|0|INFO|TestProject.Startup|Response time(ms)[65] 
+2022-04-06 14:06:24.6528|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:06:24.6528|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:06:24.6571|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 14:07:54.0678|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-06 14:07:54.0936|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'Core.Shell.Widgets.sWidgetModel`1[Shell.BaseElements.Models.Widgets.Tiles.ITileView]'. Path: $ | LineNumber: 0 | BytePositionInLine: 9.
+ ---> System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'Core.Shell.Widgets.sWidgetModel`1[Shell.BaseElements.Models.Widgets.Tiles.ITileView]'.
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException(ReadStack& state, Utf8JsonReader& reader, NotSupportedException ex)
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException_DeserializeNoConstructor(Type type, Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCoreAsObject(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadCore[TValue](JsonConverter jsonConverter, Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadCore[TValue](JsonReaderState& readerState, Boolean isFinalBlock, ReadOnlySpan`1 buffer, JsonSerializerOptions options, ReadStack& state, JsonConverter converterBase)
+   at System.Text.Json.JsonSerializer.ReadAsync[TValue](Stream utf8Json, Type returnType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-04-06 14:07:54.1750|0|INFO|TestProject.Startup|Response time(ms)[103] 
+2022-04-06 14:08:13.2997|0|INFO|TestProject.Startup|Response time(ms)[2] 
+2022-04-06 14:08:59.4679|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:09:00.3029|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:09:00.3029|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:09:00.3029|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:09:00.3029|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:09:00.3119|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:09:01.1079|0|INFO|TestProject.Startup|Response time(ms)[106] 
+2022-04-06 14:09:20.6252|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:09:20.6252|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:09:20.6860|0|INFO|TestProject.Startup|Response time(ms)[66] 
+2022-04-06 14:09:27.6085|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:09:32.3557|0|INFO|TestProject.Startup|Response time(ms)[4742] 
+2022-04-06 14:09:37.5630|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:09:39.1014|0|INFO|TestProject.Startup|Response time(ms)[1533] 
+2022-04-06 14:09:55.7911|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:09:57.3142|0|INFO|TestProject.Startup|Response time(ms)[1520] 
+2022-04-06 14:10:11.1302|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:10:11.1302|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:10:11.1302|0|INFO|TestProject.Startup|Response time(ms)[4] 
+2022-04-06 14:10:32.6994|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:10:33.9039|0|INFO|TestProject.Startup|Response time(ms)[1199] 
+2022-04-06 14:10:37.7877|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-06 14:13:28.1909|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:13:28.9801|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:13:28.9872|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:13:28.9872|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:13:28.9872|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:13:28.9872|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:13:29.7338|0|INFO|TestProject.Startup|Response time(ms)[83] 
+2022-04-06 14:13:29.7634|0|INFO|TestProject.Startup|Response time(ms)[5] 
+2022-04-06 14:13:34.4650|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:13:34.4650|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:13:34.5203|0|INFO|TestProject.Startup|Response time(ms)[60] 
+2022-04-06 14:13:38.8076|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:13:38.8651|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimePropertyInfo.get_Signature()
+   at System.Reflection.RuntimePropertyInfo.get_PropertyType()
+   at Microsoft.Extensions.Internal.PropertyHelper.IsRefStructProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.IsInterestingProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.<>c.<GetProperties>b__42_0(PropertyInfo p)
+   at System.Linq.Enumerable.WhereArrayIterator`1.MoveNext()
+   at System.Linq.Enumerable.ConcatIterator`1.MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToArray()
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 cache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 allPropertiesCache, ConcurrentDictionary`2 visiblePropertiesCache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.CreatePropertyDetails(ModelMetadataIdentity key)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.GetMetadataForProperties(Type modelType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadata.get_Properties()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinder(ModelBinderFactoryContext context)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.GetParameterBindingInfo(IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.CreateBinderDelegate(ParameterBinder parameterBinder, IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+2022-04-06 14:13:38.8943|0|INFO|TestProject.Startup|Response time(ms)[83] 
+2022-04-06 14:14:04.3888|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:14:04.3961|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimePropertyInfo.get_Signature()
+   at System.Reflection.RuntimePropertyInfo.get_PropertyType()
+   at Microsoft.Extensions.Internal.PropertyHelper.IsRefStructProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.IsInterestingProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.<>c.<GetProperties>b__42_0(PropertyInfo p)
+   at System.Linq.Enumerable.WhereArrayIterator`1.MoveNext()
+   at System.Linq.Enumerable.ConcatIterator`1.MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToArray()
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 cache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 allPropertiesCache, ConcurrentDictionary`2 visiblePropertiesCache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.CreatePropertyDetails(ModelMetadataIdentity key)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.GetMetadataForProperties(Type modelType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadata.get_Properties()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinder(ModelBinderFactoryContext context)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.GetParameterBindingInfo(IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.CreateBinderDelegate(ParameterBinder parameterBinder, IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+2022-04-06 14:14:04.3961|0|INFO|TestProject.Startup|Response time(ms)[7] 
+2022-04-06 14:15:15.1837|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:15:15.9934|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:15:16.0045|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:15:16.0045|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:15:16.0045|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:15:16.0045|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:15:16.7638|0|INFO|TestProject.Startup|Response time(ms)[97] 
+2022-04-06 14:15:16.7956|0|INFO|TestProject.Startup|Response time(ms)[6] 
+2022-04-06 14:15:19.1449|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:15:19.1449|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:15:19.2004|0|INFO|TestProject.Startup|Response time(ms)[60] 
+2022-04-06 14:15:22.0097|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:15:22.0321|0|INFO|TestProject.Startup|Response time(ms)[19] 
+2022-04-06 14:15:24.7483|0|INFO|TestProject.Startup|Response time(ms)[4] 
+2022-04-06 14:15:38.9898|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:15:39.7626|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:15:39.7686|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:15:39.7686|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:15:39.7686|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:15:39.7686|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:15:40.6453|0|INFO|TestProject.Startup|Response time(ms)[101] 
+2022-04-06 14:15:43.1959|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:15:43.1959|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:15:43.2475|0|INFO|TestProject.Startup|Response time(ms)[55] 
+2022-04-06 14:15:46.8362|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-06 14:16:01.6474|0|INFO|TestProject.Startup|Response time(ms)[14807] 
+2022-04-06 14:16:11.5017|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-06 14:16:27.3339|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-06 14:16:28.1580|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-06 14:16:28.1580|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-06 14:16:28.1580|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-06 14:16:28.1580|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-06 14:16:28.1709|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-06 14:16:29.0077|0|INFO|TestProject.Startup|Response time(ms)[103] 
+2022-04-06 14:16:35.1789|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-06 14:16:35.1789|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-06 14:16:35.2391|0|INFO|TestProject.Startup|Response time(ms)[65] 
+2022-04-06 14:16:37.7042|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-06 14:16:40.6272|0|INFO|TestProject.Startup|Response time(ms)[2919] 

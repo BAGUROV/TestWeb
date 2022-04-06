@@ -518,30 +518,6 @@
           "Sonica.Shell.BaseElements.Models.dll": {}
         }
       },
-      "SLog/1.0.0.0": {
-        "runtime": {
-          "SLog.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "ComPortWrapper/1.0.0.0": {
-        "runtime": {
-          "ComPortWrapper.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "RJCP.SerialPortStream/2.2.0.0": {
-        "runtime": {
-          "RJCP.SerialPortStream.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.0"
-          }
-        }
-      },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2378,21 +2354,6 @@
       "sha512": ""
     },
     "Sonica.Shell.BaseElements.Models/7.77.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SLog/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ComPortWrapper/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "RJCP.SerialPortStream/2.2.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -11,6 +11,7 @@ namespace TestProject
 {
     public class Startup
     {
+        private string _myAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -20,15 +21,16 @@ namespace TestProject
 
         public void ConfigureServices(IServiceCollection services)
         {
-            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
             services.AddCors(options =>
             {
-                options.AddPolicy(name: MyAllowSpecificOrigins,
+                options.AddPolicy(name: _myAllowSpecificOrigins,
                                   builder =>
                                   {
                                       builder.WithOrigins("http://localhost:8081",
                                                           "https://localhost:5001", 
-                                                          "http://localhost:8080" );
+                                                          "http://localhost:8080")
+                                                            .AllowAnyMethod()
+                                                            .AllowAnyHeader(); 
                                   });
             });
 
@@ -55,7 +57,7 @@ namespace TestProject
             app.UseRouting();
 
             app.UseAuthorization();
-            app.UseCors();
+            app.UseCors(_myAllowSpecificOrigins);
             app.UseDefaultFiles();
             app.UseStaticFiles();
 

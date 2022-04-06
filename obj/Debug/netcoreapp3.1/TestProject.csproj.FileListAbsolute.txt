@@ -421,10 +421,7 @@ C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestPr
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CopyComplete
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\Sonica.Core.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\SLog.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\ComPortWrapper.dll
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.dll
-C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\RJCP.SerialPortStream.dll
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\nlog.config
 C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll

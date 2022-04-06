@@ -8,7 +8,7 @@ namespace TestProject.Model
 {
     public class TestClass
     {
-        public static AnyTileLangModel CreateAnyTileLangModel(string tag = "AnyLongTile")
+        public static AnyTileLangModel CreateAnyTileLangModel(string tag = "AnyTileLangModel")
         {
             return new AnyTileLangModel
             {
@@ -39,7 +39,7 @@ namespace TestProject.Model
             };
         }
 
-        public static AnyTileModel CreateAnyTileModel(string tag = "AnyTile")
+        public static AnyTileModel CreateAnyTileModel(string tag = "AnyTileModel")
         {
             return new AnyTileModel
             {
@@ -70,7 +70,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileFlagModel CreateTileFlagModel(string tag = "FlagTile")
+        public static TileFlagModel CreateTileFlagModel(string tag = "TileFlagModel")
         {
             return new TileFlagModel
             {
@@ -105,7 +105,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileNumberAndStateModel CreateTileNumberAndStateModel(string tag = "NumberAndStateTile")
+        public static TileNumberAndStateModel CreateTileNumberAndStateModel(string tag = "TileNumberAndStateModel")
         {
             return new TileNumberAndStateModel
             { 
@@ -141,7 +141,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileNumberModel CreateNumberModel(string tag = "NumberTile")
+        public static TileNumberModel CreateNumberModel(string tag = "TileNumberModel")
         {
             return new TileNumberModel
             {
@@ -177,7 +177,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileSuperModel CreateTileSuperModel(string tag = "SuperTile")
+        public static TileSuperModel CreateTileSuperModel(string tag = "TileSuperModel")
         {
             return new TileSuperModel
             {
@@ -219,7 +219,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileSwitchModel CreateTileSwitchModel(string tag = "SwitchTile")
+        public static TileSwitchModel CreateTileSwitchModel(string tag = "TileSwitchModel")
         {
             return new TileSwitchModel
             {
@@ -252,7 +252,7 @@ namespace TestProject.Model
             };
         }
 
-        public static TileTextModel CreateTileTextModel(string tag = "TextTile")
+        public static TileTextModel CreateTileTextModel(string tag = "TileTextModel")
         {
             return new TileTextModel
             {
