@@ -112,3 +112,16 @@
 2022-04-06 14:16:27.2811 Info Adding target FileTarget(Name=ownFile-web)
 2022-04-06 14:16:27.2811 Info Adding target ConsoleTarget(Name=lifetimeConsole)
 2022-04-06 14:16:27.3093 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\nlog.config
+2022-04-06 16:54:05.5703 Info Message Template Auto Format enabled
+2022-04-06 16:54:05.5803 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 16:54:05.6271 Info Adding target FileTarget(Name=allfile)
+2022-04-06 16:54:05.6271 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-06 16:54:05.6271 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-04-06 16:54:05.6671 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\nlog.config
+2022-04-06 17:55:55.3417 Info Message Template Auto Format enabled
+2022-04-06 17:55:55.3518 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 17:55:55.3958 Info Adding target FileTarget(Name=allfile)
+2022-04-06 17:55:55.3958 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-06 17:55:55.4046 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-04-06 17:55:55.4335 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\nlog.config
+2022-04-06 17:56:14.8079 Warn Attempt #0 to open C:\Users\bla\AppData\Local\Sonica\ALL\TestProject\bin\Debug\netcoreapp3.1\..\..\..\Logs\nlog-AspNetCore3-own.log failed. Sleeping for 0ms

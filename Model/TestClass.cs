@@ -2,6 +2,7 @@
 using c.Enums;
 using Core.Shell.ElementStates;
 using Shell.BaseElements.Models.Widgets.Tiles;
+using System;
 using static Shell.BaseElements.Models.Widgets.Tiles.TileFlagModel;
 
 namespace TestProject.Model
@@ -261,7 +262,7 @@ namespace TestProject.Model
                 Radius = new c4(0),
                 BorderThickness = new c4(0),
                 Margin = new c4(0),
-                Text = "",
+                Text = new Random().Next(0,100).ToString(),
                 FSize = 12,
                 BorderBrush = cBrush.White,
                 HAlignment = HorizontalAlignment.Center,

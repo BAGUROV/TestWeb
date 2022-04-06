@@ -462,3 +462,233 @@ File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
 2022-04-06 14:16:35.2391|0|INFO|TestProject.Startup|Response time(ms)[65] |url: https://localhost/api/Home|action: Get|
 2022-04-06 14:16:37.7042|0|INFO|TestProject.Startup|Response time(ms)[1] |url: https://localhost/api/Home|action: |
 2022-04-06 14:16:40.6272|0|INFO|TestProject.Startup|Response time(ms)[2919] |url: https://localhost/api/Home|action: Post|
+2022-04-06 16:54:05.6914|0|DEBUG|TestProject.Program|Запуск приложения |url: |action: |
+2022-04-06 16:54:06.5455|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |
+2022-04-06 16:54:06.5455|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |
+2022-04-06 16:54:06.5455|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2022-04-06 16:54:06.5455|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2022-04-06 16:54:06.5618|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject |url: |action: |
+2022-04-06 16:54:06.7605|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 16:54:06.7605|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 16:54:06.8300|0|INFO|TestProject.Startup|Response time(ms)[143] |url: https://localhost/api/Home|action: Get|
+2022-04-06 16:54:07.1606|0|INFO|TestProject.Startup|Response time(ms)[4] |url: https://localhost/api/Home|action: Get|
+2022-04-06 16:54:23.1670|0|INFO|TestProject.Startup|Response time(ms)[0] |url: https://localhost/api/Home|action: |
+2022-04-06 16:54:23.2255|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimePropertyInfo.get_Signature()
+   at System.Reflection.RuntimePropertyInfo.get_PropertyType()
+   at Microsoft.Extensions.Internal.PropertyHelper.IsRefStructProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.IsInterestingProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.<>c.<GetProperties>b__42_0(PropertyInfo p)
+   at System.Linq.Enumerable.WhereArrayIterator`1.MoveNext()
+   at System.Linq.Enumerable.ConcatIterator`1.MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToArray()
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 cache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 allPropertiesCache, ConcurrentDictionary`2 visiblePropertiesCache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.CreatePropertyDetails(ModelMetadataIdentity key)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.GetMetadataForProperties(Type modelType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadata.get_Properties()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinder(ModelBinderFactoryContext context)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.GetParameterBindingInfo(IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.CreateBinderDelegate(ParameterBinder parameterBinder, IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+|url: https://localhost/api/Home|action: Post|
+2022-04-06 16:54:23.2634|0|INFO|TestProject.Startup|Response time(ms)[93] |url: https://localhost/api/Home|action: Post|
+2022-04-06 16:55:09.7365|0|INFO|TestProject.Startup|Response time(ms)[0] |url: https://localhost/api/Home|action: |
+2022-04-06 16:55:09.7494|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimePropertyInfo.get_Signature()
+   at System.Reflection.RuntimePropertyInfo.get_PropertyType()
+   at Microsoft.Extensions.Internal.PropertyHelper.IsRefStructProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.IsInterestingProperty(PropertyInfo property)
+   at Microsoft.Extensions.Internal.PropertyHelper.<>c.<GetProperties>b__42_0(PropertyInfo p)
+   at System.Linq.Enumerable.WhereArrayIterator`1.MoveNext()
+   at System.Linq.Enumerable.ConcatIterator`1.MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToArray()
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 cache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type, Func`2 createPropertyHelper, ConcurrentDictionary`2 allPropertiesCache, ConcurrentDictionary`2 visiblePropertiesCache)
+   at Microsoft.Extensions.Internal.PropertyHelper.GetVisibleProperties(Type type)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.CreatePropertyDetails(ModelMetadataIdentity key)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadataProvider.GetMetadataForProperties(Type modelType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Metadata.DefaultModelMetadata.get_Properties()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.CreateInstance(ModelBinderProviderContext context, Type collectionType)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreCached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata, BindingInfo bindingInfo)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.DefaultModelBinderProviderContext.CreateBinder(ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider.GetBinder(ModelBinderProviderContext context)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinderCoreUncached(DefaultModelBinderProviderContext providerContext, Object token)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.CreateBinder(ModelBinderFactoryContext context)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.GetParameterBindingInfo(IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.CreateBinderDelegate(ParameterBinder parameterBinder, IModelBinderFactory modelBinderFactory, IModelMetadataProvider modelMetadataProvider, ControllerActionDescriptor actionDescriptor, MvcOptions mvcOptions)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+|url: https://localhost/api/Home|action: Post|
+2022-04-06 16:55:09.7494|0|INFO|TestProject.Startup|Response time(ms)[10] |url: https://localhost/api/Home|action: Post|
+2022-04-06 17:55:55.4567|0|DEBUG|TestProject.Program|Запуск приложения |url: |action: |
+2022-04-06 17:55:56.3371|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 |url: |action: |
+2022-04-06 17:55:56.3437|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |
+2022-04-06 17:55:56.3437|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2022-04-06 17:55:56.3437|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2022-04-06 17:55:56.3437|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject |url: |action: |
+2022-04-06 17:55:56.6499|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:55:56.6499|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:55:56.7148|0|INFO|TestProject.Startup|Response time(ms)[128] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:55:57.1718|0|INFO|TestProject.Startup|Response time(ms)[2] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:55:57.2003|0|INFO|TestProject.Startup|Response time(ms)[7] |url: https://localhost/favicon.ico|action: |
+2022-04-06 17:56:01.6008|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:01.6008|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:01.6008|0|INFO|TestProject.Startup|Response time(ms)[6] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:07.0959|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:07.0959|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:07.0959|0|INFO|TestProject.Startup|Response time(ms)[4] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:10.5484|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:10.5484|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:10.5484|0|INFO|TestProject.Startup|Response time(ms)[4] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:11.7436|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:11.7436|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:11.7436|0|INFO|TestProject.Startup|Response time(ms)[3] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:12.5375|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:12.5375|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:12.5375|0|INFO|TestProject.Startup|Response time(ms)[4] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.2179|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.2179|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.2179|0|INFO|TestProject.Startup|Response time(ms)[3] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.7436|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.7436|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:13.7436|0|INFO|TestProject.Startup|Response time(ms)[3] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.2956|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.2956|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.2956|0|INFO|TestProject.Startup|Response time(ms)[3] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.8079|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.8079|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:14.8121|0|INFO|TestProject.Startup|Response time(ms)[5] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.3985|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.3985|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.3985|0|INFO|TestProject.Startup|Response time(ms)[2] |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.8972|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.8972|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON |url: https://localhost/api/Home|action: Get|
+2022-04-06 17:56:15.8972|0|INFO|TestProject.Startup|Response time(ms)[3] |url: https://localhost/api/Home|action: Get|
