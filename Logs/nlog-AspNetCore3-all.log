@@ -692,3 +692,287 @@ File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
 2022-04-06 17:56:15.8972|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
 2022-04-06 17:56:15.8972|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
 2022-04-06 17:56:15.8972|0|INFO|TestProject.Startup|Response time(ms)[3] 
+2022-04-13 21:21:39.5321|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:21:41.7860|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:21:41.7924|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:21:41.7924|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:21:41.7924|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:21:41.7924|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:21:43.3541|0|INFO|TestProject.Startup|Response time(ms)[157] 
+2022-04-13 21:21:43.4169|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:21:56.9919|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:21:56.9919|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 21:21:57.0429|0|INFO|TestProject.Startup|Response time(ms)[54] 
+2022-04-13 21:49:53.5441|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:49:54.3487|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:49:54.3562|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:49:54.3562|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:49:54.3562|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:49:54.3562|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:49:54.8581|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TestProject.Controllers.HomeController.Open (TestProject)
+TestProject.Controllers.HomeController.GetDelta (TestProject)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-04-13 21:49:55.0767|0|INFO|TestProject.Startup|Response time(ms)[235] 
+2022-04-13 21:49:55.1775|0|INFO|TestProject.Startup|Response time(ms)[2] 
+2022-04-13 21:50:08.8289|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TestProject.Controllers.HomeController.Open (TestProject)
+TestProject.Controllers.HomeController.GetDelta (TestProject)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-04-13 21:50:08.8384|0|INFO|TestProject.Startup|Response time(ms)[9] 
+2022-04-13 21:50:22.7701|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:50:23.5276|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:50:23.5276|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:50:23.5276|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:50:23.5276|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:50:23.5276|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:50:24.2268|0|INFO|TestProject.Startup|Response time(ms)[97] 
+2022-04-13 21:50:24.2505|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:50:30.0070|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget('>:\\Main') in the format JSON 
+2022-04-13 21:51:03.9907|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:51:04.6933|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:51:04.7003|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:51:04.7003|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:51:04.7003|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:51:04.7003|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:51:05.5128|0|INFO|TestProject.Startup|Response time(ms)[83] 
+2022-04-13 21:51:05.5397|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-13 21:51:50.3567|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:51:55.1278|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:51:55.8702|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:51:55.8702|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:51:55.8702|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:51:55.8702|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:51:55.8702|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:51:56.5432|0|INFO|TestProject.Startup|Response time(ms)[80] 
+2022-04-13 21:51:56.5673|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:52:01.3477|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:53:27.6184|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:53:28.3510|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:53:28.3595|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:53:28.3595|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:53:28.3595|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:53:28.3595|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:53:29.1074|0|INFO|TestProject.Startup|Response time(ms)[88] 
+2022-04-13 21:53:29.1302|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:53:39.9724|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:56:40.9666|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:56:41.5652|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:56:41.5652|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:56:41.5652|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:56:41.5652|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:56:41.5729|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:56:42.4775|0|INFO|TestProject.Startup|Response time(ms)[81] 
+2022-04-13 21:56:42.5015|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-13 21:56:46.4789|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:57:40.5653|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:57:41.2621|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:57:41.2621|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:57:41.2621|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:57:41.2621|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:57:41.2621|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:57:42.0808|0|INFO|TestProject.Startup|Response time(ms)[82] 
+2022-04-13 21:57:42.1092|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:57:46.1824|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:58:01.5269|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 21:58:02.4493|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.get_Signature()
+   at System.Reflection.RuntimeConstructorInfo.GetParametersNoCopy()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at System.Text.Json.Serialization.Converters.ObjectConverterFactory.GetDeserializationConstructor(Type type)
+   at System.Text.Json.Serialization.Converters.ObjectConverterFactory.CreateConverter(Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverterFactory.GetConverterInternal(Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetConverter(Type typeToConvert)
+   at System.Text.Json.JsonSerializerOptions.DetermineConverter(Type parentClassType, Type runtimePropertyType, MemberInfo memberInfo)
+   at System.Text.Json.JsonClassInfo.GetConverter(Type type, Type parentClassType, MemberInfo memberInfo, Type& runtimeType, JsonSerializerOptions options)
+   at System.Text.Json.JsonClassInfo.AddProperty(MemberInfo memberInfo, Type memberType, Type parentClassType, Nullable`1 parentTypeNumberHandling, JsonSerializerOptions options)
+   at System.Text.Json.JsonClassInfo.CacheMember(Type declaringType, Type memberType, MemberInfo memberInfo, Nullable`1 typeNumberHandling, Dictionary`2 cache, Dictionary`2& ignoredMembers)
+   at System.Text.Json.JsonClassInfo..ctor(Type type, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetOrAddClass(Type type)
+   at System.Text.Json.JsonSerializerOptions.GetOrAddClassForRootType(Type type)
+   at System.Text.Json.WriteStack.Initialize(Type type, JsonSerializerOptions options, Boolean supportContinuation)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore[TValue](Stream utf8Json, TValue value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor.ExecuteAsync(ActionContext context, JsonResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor.ExecuteAsync(ActionContext context, JsonResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+2022-04-13 21:58:02.5345|0|INFO|TestProject.Startup|Response time(ms)[17750] 
+2022-04-13 21:58:40.3420|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 21:58:41.0929|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 21:58:41.0929|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 21:58:41.0929|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 21:58:41.1037|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 21:58:41.1037|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 21:58:41.7886|0|INFO|TestProject.Startup|Response time(ms)[82] 
+2022-04-13 21:58:41.8112|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 21:58:47.4402|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-13 21:58:53.8713|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 21:58:53.8713|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 21:58:53.8713|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not load file or assembly 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.
+File name: 'Auth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.get_Signature()
+   at System.Reflection.RuntimeConstructorInfo.GetParametersNoCopy()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at System.Text.Json.Serialization.Converters.ObjectConverterFactory.GetDeserializationConstructor(Type type)
+   at System.Text.Json.Serialization.Converters.ObjectConverterFactory.CreateConverter(Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverterFactory.GetConverterInternal(Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetConverter(Type typeToConvert)
+   at System.Text.Json.JsonSerializerOptions.DetermineConverter(Type parentClassType, Type runtimePropertyType, MemberInfo memberInfo)
+   at System.Text.Json.JsonClassInfo.GetConverter(Type type, Type parentClassType, MemberInfo memberInfo, Type& runtimeType, JsonSerializerOptions options)
+   at System.Text.Json.JsonClassInfo.AddProperty(MemberInfo memberInfo, Type memberType, Type parentClassType, Nullable`1 parentTypeNumberHandling, JsonSerializerOptions options)
+   at System.Text.Json.JsonClassInfo.CacheMember(Type declaringType, Type memberType, MemberInfo memberInfo, Nullable`1 typeNumberHandling, Dictionary`2 cache, Dictionary`2& ignoredMembers)
+   at System.Text.Json.JsonClassInfo..ctor(Type type, JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializerOptions.GetOrAddClass(Type type)
+   at System.Text.Json.JsonSerializerOptions.GetOrAddClassForRootType(Type type)
+   at System.Text.Json.WriteStack.Initialize(Type type, JsonSerializerOptions options, Boolean supportContinuation)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore[TValue](Stream utf8Json, TValue value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor.ExecuteAsync(ActionContext context, JsonResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor.ExecuteAsync(ActionContext context, JsonResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+
+2022-04-13 21:58:53.9647|0|INFO|TestProject.Startup|Response time(ms)[3944] 
+2022-04-13 22:05:06.5238|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:05:07.3182|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:05:07.3246|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:05:07.3246|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:05:07.3246|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:05:07.3246|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:05:08.0433|0|INFO|TestProject.Startup|Response time(ms)[88] 
+2022-04-13 22:05:08.0714|0|INFO|TestProject.Startup|Response time(ms)[1] 
+2022-04-13 22:05:09.9009|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 22:05:09.9022|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 22:05:09.9436|0|INFO|TestProject.Startup|Response time(ms)[45] 
+2022-04-13 22:21:01.8225|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:21:02.5243|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:21:02.5308|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:21:02.5308|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:21:02.5308|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:21:02.5308|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:21:03.1154|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+TestProject.Controllers.HomeController.Open (TestProject)
+TestProject.Controllers.HomeController.GetDelta (TestProject)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-04-13 22:21:03.2112|0|INFO|TestProject.Startup|Response time(ms)[110] 
+2022-04-13 22:21:03.3269|0|INFO|TestProject.Startup|Response time(ms)[3] 
+2022-04-13 22:22:01.5823|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:22:02.2789|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:22:02.2789|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:22:02.2789|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:22:02.2789|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:22:02.2789|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:22:04.5401|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.JsonResult'.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-04-13 22:22:04.6199|0|INFO|TestProject.Startup|Response time(ms)[1667] 
+2022-04-13 22:22:04.7118|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 22:22:26.0148|0|INFO|TestProject.Startup|Response time(ms)[24] 
+2022-04-13 22:22:30.4229|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(1) in the format JSON 
+2022-04-13 22:22:30.4229|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(1) in the format JSON 
+2022-04-13 22:22:30.4650|0|INFO|TestProject.Startup|Response time(ms)[43] 
+2022-04-13 22:23:12.9549|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:23:13.6111|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:23:13.6193|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:23:13.6193|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:23:13.6193|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:23:13.6193|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:23:14.4619|0|INFO|TestProject.Startup|Response time(ms)[86] 
+2022-04-13 22:23:14.4846|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 22:23:22.3696|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 22:23:22.3707|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 22:23:22.4122|0|INFO|TestProject.Startup|Response time(ms)[45] 
+2022-04-13 22:42:40.8742|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:42:41.6535|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:42:41.6535|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:42:41.6535|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:42:41.6535|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:42:41.6535|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:42:42.2641|0|INFO|TestProject.Startup|Response time(ms)[81] 
+2022-04-13 22:42:42.2874|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 22:42:44.9245|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-13 22:42:44.9245|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-13 22:42:44.9664|0|INFO|TestProject.Startup|Response time(ms)[45] 
+2022-04-13 22:43:22.9054|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-13 22:43:23.6451|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-13 22:43:23.6531|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-13 22:43:23.6531|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-13 22:43:23.6531|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-13 22:43:23.6531|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-13 22:43:24.2940|0|INFO|TestProject.Startup|Response time(ms)[78] 
+2022-04-13 22:43:24.3173|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-13 22:43:30.0009|0|INFO|TestProject.Startup|Response time(ms)[1550] 
+2022-04-14 13:17:34.4597|0|DEBUG|TestProject.Program|Запуск приложения 
+2022-04-14 13:17:36.4686|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-04-14 13:17:36.4771|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-04-14 13:17:36.4771|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-14 13:17:36.4771|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-14 13:17:36.4771|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\bla\AppData\Local\Sonica\ALL\TestProject 
+2022-04-14 13:17:37.7660|0|INFO|TestProject.Startup|Response time(ms)[95] 
+2022-04-14 13:17:37.8010|0|INFO|TestProject.Startup|Response time(ms)[0] 
+2022-04-14 13:17:47.3439|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-14 13:17:47.3439|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-14 13:17:47.3847|0|INFO|TestProject.Startup|Response time(ms)[44] 
+2022-04-14 13:21:34.2408|0|INFO|TestProject.Startup|Response time(ms)[2700] 
+2022-04-14 13:24:27.9493|0|INFO|TestProject.Controllers.HomeController|Trying to get a widget(TileTextModel) in the format JSON 
+2022-04-14 13:24:27.9493|0|INFO|TestProject.Controllers.HomeController|Successful receipt of the widget(TileTextModel) in the format JSON 
+2022-04-14 13:24:27.9493|0|INFO|TestProject.Startup|Response time(ms)[4] 
+2022-04-14 13:24:59.8836|0|INFO|TestProject.Startup|Response time(ms)[1671] 
